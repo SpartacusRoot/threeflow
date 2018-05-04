@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    /* flex-direction: column; */
+    margin: 30px;
+
+}
+
+.textarea {
+    margin-top: 20px !important; 
+}
+
+.card2 {
+    margin: 30px;
+}
+
+.chips-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.actions-container {
+    margin-top: 10px;
+}
+
+.content-button {
+    margin-top: 10px;
+}
